@@ -1,0 +1,37 @@
+#btn-login {
+    background-color: lightgoldenrodyellow;
+    padding: 8px 16px;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+
+#btn-login:hover {
+    background-color: darkblue;
+    color: white;
+}
+
+#btn-signup {
+    background-color: white;
+    border: 2px solid brown;
+    padding: 8px 16px;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+
+#btn-signup:hover {
+    background-color: red;
+    color: white;
+}
+
+#btn-submit {
+    background-color:lightgreen;
+    border: 2px solid black;
+    padding: 8px 16px;
+    border-radius: 8px;
+    outline: none;
+    cursor: not-allowed;
+    opacity: 0.6;
+}
+}

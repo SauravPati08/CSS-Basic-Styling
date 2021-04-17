@@ -1,0 +1,17 @@
+h1{
+    color:purple;
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+
+p{
+    color: brown;
+    text-align: justify;
+    font-weight: 600;
+    letter-spacing: 1px;
+    word-spacing: 0px;
+    line-height: 1.5;
+    font-family: 'Open Sans', sans-serif;
+}

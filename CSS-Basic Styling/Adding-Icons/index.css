@@ -1,0 +1,29 @@
+button {
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#btn-facebook {
+    background-color: #3b5993;
+}
+
+#btn-google {
+    background-color: #dd4b3d;
+}
+
+#btn-github {
+    background-color: #000000;
+}
+
+.label {
+    padding-left: 8px;
+}
+
+#google-logo {
+    width: 13px;
+    height: 13px;
+    background-color: white;
+}
